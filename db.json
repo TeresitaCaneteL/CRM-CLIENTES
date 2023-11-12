@@ -1,0 +1,51 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "Empresa Uno",
+      "email": "juan@juan.com",
+      "telefono": "12345678",
+      "notas": "test nota",
+      "id": 1
+    },
+    {
+      "nombre": "María",
+      "empresa": "Empresa Dos",
+      "email": "maria@maria.com",
+      "telefono": "234356789",
+      "notas": "nota Actualizada",
+      "id": 2
+    },
+    {
+      "nombre": "Pablo",
+      "empresa": "Empresa Tres",
+      "email": "pablo@pablo.com",
+      "telefono": "34567891",
+      "notas": "test nota ",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Teresita",
+      "telefono": 456789123,
+      "empresa": "Cuatro",
+      "email": "teresita@jtere.com"
+    },
+    {
+      "nombre": "Pedrito",
+      "empresa": "Enjoy",
+      "email": "pau@gmail.com",
+      "telefono": "994367260",
+      "notas": "text",
+      "id": 5
+    },
+    {
+      "nombre": "Laura",
+      "empresa": "Enjoy",
+      "email": "tere@gmail",
+      "telefono": "994367260",
+      "notas": "test",
+      "id": 6
+    }
+  ]
+}
